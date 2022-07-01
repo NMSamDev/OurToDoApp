@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoAppExample</string>
+    <string name="button">Please click here</string>
+</resources>
